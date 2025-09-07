@@ -1,5 +1,5 @@
 # GenAI_crash_course
-DM to enroll for GenAI crash course!
+DM to enroll for instructor guided GenAI crash course!
 
 Sample topics include:
 
@@ -9,4 +9,4 @@ Sample topics include:
 
 Sessions will include a mix of conputational concepts, mathematical theory and python demos. Both in-person and online training options are available.
 Lets Demystify AI one byte at a time ...
-~ Dr. Sanjan Gupta
+~ Dr. Sanjan TP Gupta
